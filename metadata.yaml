@@ -1,0 +1,44 @@
+_repo: Essays-in-Little_1594
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Adams, W. H. Davenport (William Henry Davenport)
+    aliases:
+    - Adams, W.H.
+    - Adams, William Henry Davenport
+    birthdate: 1828
+    deathdate: 1891
+    gutenberg_agent_id: '34969'
+    url: http://www.gutenberg.org/2009/agents/34969
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_bookshelf: Contemporary Reviews
+gutenberg_issued: '1999-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1594'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'English literature -- 19th century -- History and criticism'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: 'Alexandre Dumas -- Mr. Stevenson''s works -- Thomas Haynes Bayly
+  -- Theodore de Banville -- Homer and the study of Greek -- The last fashionable
+  novel -- Thackeray -- Dickens -- Adventures of Buccaneers -- The sagas -- Charles
+  Kingsley -- Charles Lever: his books, adventures and misfortunes -- The poems of
+  Sir Walter Scott -- John Bunyan -- Letter to a young journalist -- Mr. Kipling''s
+  stories'
+title: Essays in Little
+url: http://www.gutenberg.org/ebooks/1594
